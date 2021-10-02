@@ -1,0 +1,11 @@
+.carrusel{
+    margin-bottom: -250px;
+}
+
+@media (max-width: 1000.98px)  { 
+
+    .carrusel{
+        margin-bottom: -90px;
+    }
+    
+ }
